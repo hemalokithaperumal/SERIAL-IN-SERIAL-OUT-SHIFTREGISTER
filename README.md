@@ -70,11 +70,12 @@ endmodule
 ```
 **RTL LOGIC FOR SISO Shift Register**
 
-![alt text](rtl.png)
+![rtl dia](https://github.com/hemalokithaperumal/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/144925008/554708da-c60e-47f9-9d3e-794c0d736323)
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![alt text](time.png)
+![tt dia](https://github.com/hemalokithaperumal/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/144925008/7925af5c-cfb2-4217-9376-fed12cc91ad4)
 
 **RESULTS**
 
